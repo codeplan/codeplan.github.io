@@ -1,10 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://codeplan.github.io/blog/2013/05/31/Blogging+with+octopress+is+easy/</loc>
-        <lastmod>2013-05-31T14:50:56+05:30</lastmod>
-    </url>
-    <url>
         <loc>http://codeplan.github.io/robots.txt</loc>
         <lastmod>2013-05-31T15:05:12+05:30</lastmod>
     </url>
