@@ -16,6 +16,9 @@ A key part of the Diaspora software design concept is that it should act as a "s
 {% img http://notizblog.org/wp-content/uploads/2012/09/diaspora.jpg %}
 
 
+
+
+
 The Diaspora Team:
 {% img http://upload.wikimedia.org/wikipedia/commons/b/b9/Diaspora_team.jpg %}
 
