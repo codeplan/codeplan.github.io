@@ -14,9 +14,12 @@ Diaspora is intended to address privacy concerns related to centralized social n
 A key part of the Diaspora software design concept is that it should act as a "social aggregator", allowing posts to be easily imported from Facebook, Tumblr and Twitter. As Village Voice writer Nick Pinto explained, "the idea is that this lowers the barriers to joining the network, and as more of your friends join, you no longer need to bounce communications through Facebook. Instead, you can communicate directly, securely, and without running exchanges past the prying eyes of Zuckerberg and his business associates."
 
 
-{% img http://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Diaspora_latest.png/250px-Diaspora_latest.png 450 450 %}
+{% img http://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Diaspora_latest.png/250px-Diaspora_latest.png 1050 1050 %}
 
-{% video http://www.youtube.com/watch?feature=player_detailpage&v=_4mMSxWEnjU 50 50 http://www.youtube.com/watch?feature=player_detailpage&v=_4mMSxWEnjU.png %}
+
+Watch video:
+
+{% video http://www.youtube.com/watch?feature=player_detailpage&v=_4mMSxWEnjU 300 3000 http://www.youtube.com/watch?feature=player_detailpage&v=_4mMSxWEnjU.png %}
 
 
 
