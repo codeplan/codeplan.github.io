@@ -16,7 +16,7 @@ A key part of the Diaspora software design concept is that it should act as a "s
 
 {% img http://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Diaspora_latest.png/250px-Diaspora_latest.png 450 450 %}
 
-{% video http://www.youtube.com/watch?v=_4mMSxWEnjU 50 50 %}
+{% video http://www.youtube.com/watch?feature=player_detailpage&v=_4mMSxWEnjU 50 50 http://www.youtube.com/watch?feature=player_detailpage&v=_4mMSxWEnjU.png %}
 
 
 
