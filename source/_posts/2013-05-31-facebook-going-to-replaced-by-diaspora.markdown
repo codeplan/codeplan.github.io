@@ -20,10 +20,13 @@ The powerfull features of Diaspora:
 
 The Diaspora software allows user posts to be designated as "public" or "limited". In the latter case, posts may only be read by approved groups (or combinations of groups) set up by the user, termed aspects. Several default aspects exist such as friends, family, or work and custom ones may be added. It is possible to follow another user's post without the mutual friending required by other social networks.A user's news stream may be filtered by aspect.
 The developers consider the distributed nature of the network crucial to its design and success:
-Diaspora’s distributed design is a huge part of it. Like the Internet itself, Diaspora* isn’t housed in any one place, and it’s not controlled by any one entity (including us). We’ve created software that lets you set up and run your own social network on your own “pod” (or server) and connect your network to the larger Diaspora* ecosystem. You can have a pod all to yourself, or one for just you and your friends, or your family, giving you complete ownership and control over your personal social information (including your identity, your posts, and your photos) and how it’s all stored and shared. Or you can simply request an invite at joindiaspora.com, or sign up at one of more than 20 open pods.[5]
+
+"Diaspora’s distributed design is a huge part of it. Like the Internet itself, Diaspora* isn’t housed in any one place, and it’s not controlled by any one entity (including us). We’ve created software that lets you set up and run your own social network on your own “pod” (or server) and connect your network to the larger Diaspora* ecosystem. You can have a pod all to yourself, or one for just you and your friends, or your family, giving you complete ownership and control over your personal social information (including your identity, your posts, and your photos) and how it’s all stored and shared. Or you can simply request an invite at joindiaspora.com, or sign up at one of more than 20 open pods."
+
+
 Diaspora users retain ownership of their data and do not assign ownership rights. The software is specifically designed to allow users to download all their images and text that has been uploaded at any time.
-In September 2011, although the network and its software was still in alpha, Terry Hancock of Free Software Magazine described it as "already quite usable for some purposes". While it supported text, photographs, and links, it still lacked some features, including link preview, the ability to upload or embed videos (although videos could be linked to on other services) and chat. Animated GIFs were supported, however.[8]
-Video embedding from YouTube and Vimeo was added in early 2012
+In September 2011, although the network and its software was still in alpha, Terry Hancock of Free Software Magazine described it as "already quite usable for some purposes". While it supported text, photographs, and links, it still lacked some features, including link preview, the ability to upload or embed videos (although videos could be linked to on other services) and chat. Animated GIFs were supported, however.
+Video embedding from YouTube and Vimeo was added in early 2012.
 
 
 The Diaspora Team:
