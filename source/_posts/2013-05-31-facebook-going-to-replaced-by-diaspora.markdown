@@ -37,7 +37,7 @@ The Diaspora Team:
 
 Watch video to see the power if Diaspora:
 
-{% video http://www.youtube.com/watch?feature=player_detailpage&v=_4mMSxWEnjU %}
+{% video http://www.youtube.com/watch?feature=player_detailpage&v=_4mMSxWEnjU 500 500 %}
 
 
 
