@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Facebook going to replaced by Diaspora"
+title: "Facebook going to be replaced by Diaspora"
 date: 2013-05-31 15:55
 comments: true
 categories: 
