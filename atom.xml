@@ -4,7 +4,7 @@
   <title><![CDATA[Learner's Blog]]></title>
   <link href="http://codeplan.github.io/atom.xml" rel="self"/>
   <link href="http://codeplan.github.io/"/>
-  <updated>2013-06-01T11:05:55+05:30</updated>
+  <updated>2013-06-01T11:20:07+05:30</updated>
   <id>http://codeplan.github.io/</id>
   <author>
     <name><![CDATA[Avdesh Singh]]></name>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Facebook going to be replaced by Diaspora]]></title>
-    <link href="http://codeplan.github.io/blog/2013/05/31/facebook-going-to-replaced-by-diaspora/"/>
+    <link href="http://codeplan.github.io/blog/2013/05/31/facebook-going-to-be-replaced-by-diaspora/"/>
     <updated>2013-05-31T15:55:00+05:30</updated>
-    <id>http://codeplan.github.io/blog/2013/05/31/facebook-going-to-replaced-by-diaspora</id>
+    <id>http://codeplan.github.io/blog/2013/05/31/facebook-going-to-be-replaced-by-diaspora</id>
     <content type="html"><![CDATA[<p>Diaspora (stylized DIASPORA*) is a free personal web server that implements a distributed social networking service. Installations of the software form nodes (termed &ldquo;pods&rdquo;) which make up the distributed Diaspora social network.
 The project was founded by Dan Grippi, Maxwell Salzberg, Raphael Sofaer and Ilya Zhitomirskiy, students at New York University&rsquo;s Courant Institute of Mathematical Sciences. The group received donations in excess of $200,000 via Kickstarter. A consumer alpha version was released on November 23, 2010.</p>
 
