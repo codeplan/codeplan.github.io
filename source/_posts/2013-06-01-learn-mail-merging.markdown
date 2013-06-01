@@ -12,7 +12,7 @@ Who needs Mail Merge?
 If you are organizing a party at your home, you can send personalized email invitations to all your friends with the help of mail merge. A person like Steve Jobs – see the following video – can use mail merge to effortlessly invite his inner circle for the launch of a new product.
 
 
-[% img http://t3kd.com/wp-content/uploads/2013/03/gmail-google-docs-mail-merge-705x320.jpg %]
+{% img http://t3kd.com/wp-content/uploads/2013/03/gmail-google-docs-mail-merge-705x320.jpg %}
 
 
 
