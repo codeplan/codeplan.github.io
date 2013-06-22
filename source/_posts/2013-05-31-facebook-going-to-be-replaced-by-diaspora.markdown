@@ -15,7 +15,7 @@ A key part of the Diaspora software design concept is that it should act as a "s
 <!-- more -->
 
 {% img http://notizblog.org/wp-content/uploads/2012/09/diaspora.jpg %}
-p
+
 
 The powerfull features of Diaspora:
 
