@@ -1,0 +1,22 @@
+---
+layout: post
+title: "Beware, another spider OSINT is coming to the web"
+date: 2013-06-22 19:43
+comments: true
+categories: 
+---
+
+After startling revelations about the US' long-running Prism internet surveillance programme comes the news that Delhi Police is also readying a similar system to snoop on social networks and internet communications. It has already invited global IT giants to help set up a lab and train manpower for the project.
+
+
+Named Osint ( Open Source Intelligent Solution), the system will be used to extract and analyze information available on the internet. Police sources say criminals and terrorists now mostly communicate online to avoid detection, so Osint will focus on gathering 'actionable intelligence'—ready information to deal with a situation—and 'sentiment analysis'—psychological analysis of the communication to preempt a crime—by collecting and analysing data from online sources.
+
+Osint will also help police profile suspects and index information about them. For sentiment analysis, it will tap into social media like Facebook, Twitter, public forums and blogs. Equally important will be its ability to sift relevant details from a heap of information, and render them usable. This will speed up investigations as police will be able to tally new information with their crime database. With context and object identification, the system will be able to discover related material online and identify people, places, organizations etc. 
+
+<!-- more -->
+
+"The internet can be a vital source of information for law enforcement agencies to identify criminals and criminal activities. It is probably the largest source of data today with valuable, real-time information coursing through it," said an officer, adding, "This technology is increasingly being used in Europe and will alert us to the anti-social or criminal motives of a person or group".
+
+The system will be able to extract data in any format— text, Office documents, PDFs, flat files, images, audio, video and even files accessible via protocols—from any website in the public domain. It will support encoding for languages like Arabic and Hebrew that are bidirectional.
+
+--source: Times of India
