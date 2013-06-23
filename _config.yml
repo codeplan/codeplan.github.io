@@ -15,7 +15,7 @@ description: The blog will tell you the new trends and turns in todays computer 
 date_format: "ordinal"
 
 # RSS / Email (optional) subscription links (change if using something like Feedburner)
-subscribe_rss: codeplan.github.io/atom.xml
+subscribe_rss: http://codeplan.github.io/atom.xml
 subscribe_email:
 # RSS feeds can list your email address if you like
 email:
@@ -62,13 +62,13 @@ default_asides: [asides/recent_posts.html, asides/github.html, asides/delicious.
 # ----------------------- #
 
 # Github repositories
-github_user:
+github_user: codeplan
 github_repo_count: 0
 github_show_profile_link: true
 github_skip_forks: true
 
 # Twitter
-twitter_user: www.twitter.com/avi_k_s
+twitter_user: avi_k_s
 twitter_tweet_button: true
 
 # Google +1
